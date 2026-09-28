@@ -13,8 +13,6 @@
 ### **Responsáveis pelo site:**
 >*Caio Machado*    - RGM: 49750011
 
-&nbsp;
 >*Lorenzo Loriano* - RGM: 49405411
 
-&nbsp;
 >*Gabriel Almeida* - RGM: 
