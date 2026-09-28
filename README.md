@@ -12,6 +12,6 @@
 * E o Próprio Brasil
 -----------------------------
 ### **Responsáveis pelo site:**
-* *Caio Machado*    - RGM: 49750011
-* *Lorenzo Loriano* - RGM: 49405411
-* *Gabriel Almeida* - RGM: 
+-# * *Caio Machado*    - RGM: 49750011
+-# * *Lorenzo Loriano* - RGM: 49405411
+-# * *Gabriel Almeida* - RGM: 
