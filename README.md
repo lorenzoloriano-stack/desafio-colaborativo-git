@@ -9,7 +9,7 @@
 * Cultura
 * Turismo
 * E o Próprio Brasil
---------------------------------0------0
+--------------------------------
 ### **Responsáveis pelo site:**
 >*Caio Machado*    - RGM: 49750011
 
